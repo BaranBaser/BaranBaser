@@ -1,64 +1,62 @@
 ```
-  _____                         ____                        
- |  __ \                       |  _ \                       
- | |__) |  __ _  _ __  __ _   | |_) |  __ _  ___  ___  _ __
- |  ___/  / _` || '__|/ _` |  |  _ <  / _` |/ __|/ _ \| '__|
- | |     | (_| || |  | (_| |  | |_) || (_| |\__ \  __/| |   
- |_|      \__,_||_|   \__,_|  |____/  \__,_||___/\___||_|   
+...............................:-=====++===........            BaranBaser@github
+............................-==-===++=***+++==*=*+*            ────────────────────────────────────────
+.........................-==++=+++=+**+*#***++++*+++           OS ............. Linux / Windows
+........................==++=++===++######****++**+*           Role ........... Mechatronics Engineer
+.......................=+*=+====++#****+**+++======+           Specialty ...... Full-Stack Software Dev
+.....................:+++*+=*+******++======--======           University ..... Marmara Üniversitesi
+....................:*#**+********+++======----=====           Location ....... Istanbul, Turkey 🇹🇷
+....................#%###*####***++===================         Uptime ......... 22+ years
+....................%@%##*###**+++++=============-====         ────────────────────────────────────────
+.....................*%**+++**++++++===================        Languages.Code . Python, TS, Dart, C++
+......................+**++++++++============----======        Languages.Web .. HTML, CSS, SQL
+.......................##++==+++++======+========---==         Frameworks ..... Next.js, Flutter, FastAPI
+.......................=#=-=++*+*+++++=+++##***+=-===*         IDE ............ VS Code, PyCharm
+........................#=+****####**+++**#*##****+++=         ────────────────────────────────────────
+........................+-+*###@@@@##*+++##%%+%%+%##*+         Interests[0] ... Autonomous Systems / Robotics
+.........................-+**#####%#%+=-=+**###*++++==         Interests[1] ... Quant Finance (ERYS)
+.........................-=+**#*##***+--===++***++++==         Interests[2] ... Flutter Mobile Apps
+.........................:==+++++++*+=---================      Interests[3] ... Embedded / Control Systems
+..........................=+++++++*=====--==++===========      ────────────────────────────────────────
+..........................+=+++++**+*++++*+++=+==========      GitHub Stats
+..........................=+++++++**##***+++===++========      ────────────────────────────────────────
+...........................+++++*++******+++++++**+=====+      Repos .......... 10+ Public Repositories
+...........................+++***++******#**+++****=====+      Stars .......... ⭐ Growing
+............................+*+***+##**##****=++*++++++==      Building ....... ERYS v10 | Stockbear
+.............................******+++++*+++++=++++*+++=+                   ... Social-Cinebee | BearMetrics
+..............................************++++*******#+==      ────────────────────────────────────────
+...............................+*#*********+*********+++       Contact
+...............................+****#************#***++=       ────────────────────────────────────────
+...............................:**#*****************++=====    GitHub ......... github.com/BaranBaser
+.............................:#-+***************+*++++====     
+..........................:::::++++**********++++++=+======    
+..........................:-:::-++++******+*+++++++++=====     
+.......................::--:-::=+*++++*++++++++++++++=+        
+...............:.....:::::-::-=--:=--*+*+++++++++++:-:         
+.....................::::::-:=--=--+-=-==-=-==-=-=:=-=:        
+.................:..::::::::::::-=-=--=-=-=-=:---:-:=:-        
+............:.....::.:::::::::---:--=-=-=-=-=-=-=--:::         
+............:...::::::::::::::::::--------------:---:          
+.............:.::.:.:.::.:.::::-:::::=::--::=::-::-:-          
+.........:::.::.:.....::::::::::::::::-::-::-:::::::::         
+:......::::..:...:....:::::::::::::::::-::::::::::::::         
+........::..:::..:..::::.::::.::::::-::::::::::::::-::         
+:::::::..:..::::....::.:.::.::::::::::::::-:::::::::::         
+.:::.::....:.......::::::::.:.:.::::::::::::::::::::           
 ```
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════════════════════╗
-║                         baran@github ~ terminal                                  ║
-╠═══════════════════════════════╦══════════════════════════════════════════════════╣
-║                               ║                                                  ║
-║        ██████╗ ██████╗        ║  baran@github                                    ║
-║        ██╔══██╗██╔══██╗       ║  ─────────────────────────────────────────────   ║
-║        ██████╔╝██████╔╝       ║  Role ........... Mechatronics Engineer           ║
-║        ██╔══██╗██╔══██╗       ║  Specialty ...... Software Developer              ║
-║        ██████╔╝██████╔╝       ║  University ..... Marmara Üniversitesi            ║
-║        ╚═════╝ ╚═════╝        ║  Location ....... Istanbul, Turkey  🇹🇷           ║
-║                               ║  Shell .......... Python, TypeScript              ║
-║   ╔═══════════════════════╗   ║  ─────────────────────────────────────────────   ║
-║   ║  MECHATRONIC          ║   ║  Languages.Code .. Python, TypeScript, Dart, C++ ║
-║   ║  ENGINEER             ║   ║  Languages.Web ... HTML, CSS, SQL                ║
-║   ║  + SOFTWARE DEVELOPER ║   ║  Frameworks ..... Next.js, Flutter, FastAPI      ║
-║   ╚═══════════════════════╝   ║  IDE ............ VS Code / PyCharm              ║
-║                               ║  ─────────────────────────────────────────────   ║
-║   ┌───────────────────────┐   ║  Interests.Robotics  .. Autonomous Systems        ║
-║   │ ██████████████ 100%   │   ║  Interests.Finance  ... ERYS Quant Research       ║
-║   │ Python     ██████ 90% │   ║  Interests.Mobile   ... Flutter / Dart Apps       ║
-║   │ TypeScript █████  80% │   ║  Interests.Embedded ... C++ / Control Systems     ║
-║   │ Dart       ████   75% │   ║  ─────────────────────────────────────────────   ║
-║   │ C++        ████   70% │   ║  GitHub Stats ─────────────────────────────────  ║
-║   └───────────────────────┘   ║  Repos .......... 10+ Public Repositories         ║
-║                               ║  Building ....... ERYS v10 | Stockbear | Cinebee  ║
-║                               ║  Focus .......... Quant Finance + Full-Stack Dev  ║
-╚═══════════════════════════════╩══════════════════════════════════════════════════╝
-```
-
-</div>
 
 ---
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=BaranBaser&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaranBaser&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-</div>
+![Baran's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaranBaser&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaranBaser&layout=compact&theme=tokyonight&hide_border=true)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BaranBaser&theme=tokyonight&hide_border=true" height="160em"/>
-</div>
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=BaranBaser&theme=tokyonight&hide_border=true)
 
 ---
 
 ### 🛠️ Tech Stack
-
-<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -69,31 +67,20 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-</div>
 
 ---
 
 ### 🚀 Featured Projects
 
-| 🏷️ Project | 📝 Description | 🔧 Tech |
+| Project | Description | Tech |
 |:---|:---|:---|
-| 🦅 [**ERYS**](https://github.com/BaranBaser/Erys) | Autonomous Scientific Financial Research OS & Quant Laboratory | `Python` `DuckDB` `FastAPI` |
-| 🐻 [**Stockbear**](https://github.com/BaranBaser/stockbear) | Real-time stock analytics & market microstructure dashboard | `TypeScript` `React` `Vite` |
-| 🎬 [**Social-Cinebee**](https://github.com/BaranBaser/Social-Cinebee) | Full-stack social movie platform | `Next.js` `Node.js` `MongoDB` |
+| 🦅 [**ERYS**](https://github.com/BaranBaser/Erys) | Autonomous Scientific Financial Research OS | `Python` `DuckDB` `FastAPI` |
+| 🐻 [**Stockbear**](https://github.com/BaranBaser/stockbear) | Real-time stock analytics dashboard | `TypeScript` `React` |
+| 🎬 [**Social-Cinebee**](https://github.com/BaranBaser/Social-Cinebee) | Full-stack social movie platform | `Next.js` `Node.js` |
 | 📊 [**BearMetrics**](https://github.com/BaranBaser/BearMetrics) | Cross-platform analytics mobile app | `Flutter` `Dart` |
 | 📱 [**TodoBear**](https://github.com/BaranBaser/todobear) | Productivity mobile application | `Flutter` `Dart` |
-| 💹 [**Finance**](https://github.com/BaranBaser/Finance) | Portfolio risk & financial computation engine | `TypeScript` |
 
 ---
 
-<div align="center">
-
 > *"Mechatronics taught me that the most powerful systems emerge when mechanics, electronics, and software work as one."*
-
-[![GitHub](https://img.shields.io/badge/GitHub-BaranBaser-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BaranBaser)
-
-</div>
