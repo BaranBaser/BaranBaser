@@ -1,8 +1,14 @@
-![neofetch](https://raw.githubusercontent.com/BaranBaser/BaranBaser/main/neofetch.svg)
+<a href="https://github.com/BaranBaser/BaranBaser">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/BaranBaser/BaranBaser/main/dark_mode.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BaranBaser/BaranBaser/main/light_mode.svg">
+    <img alt="Baran Baser GitHub Profile" src="https://raw.githubusercontent.com/BaranBaser/BaranBaser/main/dark_mode.svg">
+  </picture>
+</a>
 
 ---
 
-### Stats
+### 📊 Stats
 
 ![stats](https://github-readme-stats.vercel.app/api?username=BaranBaser&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaranBaser&layout=compact&theme=tokyonight&hide_border=true)
@@ -11,7 +17,7 @@
 
 ---
 
-### Tech Stack
+### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -25,14 +31,14 @@
 
 ---
 
-### Projects
+### 🚀 Projects
 
 | Project | Description | Tech |
 |:---|:---|:---|
-| [ERYS](https://github.com/BaranBaser/Erys) | Autonomous Scientific Financial Research OS | Python DuckDB FastAPI |
-| [Stockbear](https://github.com/BaranBaser/stockbear) | Real-time stock analytics dashboard | TypeScript React |
-| [Social-Cinebee](https://github.com/BaranBaser/Social-Cinebee) | Full-stack social movie platform | Next.js Node.js |
-| [BearMetrics](https://github.com/BaranBaser/BearMetrics) | Cross-platform analytics mobile app | Flutter Dart |
+| [🦅 ERYS](https://github.com/BaranBaser/Erys) | Autonomous Scientific Financial Research OS | Python DuckDB FastAPI |
+| [🐻 Stockbear](https://github.com/BaranBaser/stockbear) | Real-time stock analytics dashboard | TypeScript React |
+| [🎬 Social-Cinebee](https://github.com/BaranBaser/Social-Cinebee) | Full-stack social movie platform | Next.js Node.js |
+| [📊 BearMetrics](https://github.com/BaranBaser/BearMetrics) | Cross-platform analytics mobile app | Flutter Dart |
 
 ---
 
