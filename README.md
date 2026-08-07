@@ -102,3 +102,5 @@
   <i>"Striving for technical excellence, scientific reproducibility, and elegant software design."</i>
 
 </div>
+
+<!-- GitHub Profile Cache Invalidation -->
