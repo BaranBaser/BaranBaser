@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     font-family="ConsolasFallback,Consolas,monospace"
+     width="971px" height="580px" font-size="16px">
+<style>
+@font-face {
+  src: local('Consolas'), local('Consolas Bold');
+  font-family: 'ConsolasFallback';
+  font-display: swap;
+  size-adjust: 109%;
+}
+.key      { fill: #ffa657; }
+.value    { fill: #a5d6ff; }
+.addColor { fill: #3fb950; }
+.delColor { fill: #f85149; }
+.cc       { fill: #616e7f; }
+text, tspan { white-space: pre; }
+</style>
+<rect width="971px" height="580px" fill="#161b22" rx="15"/>
+<text x="15" y="30" fill="#c9d1d9">
+<tspan x="15" y="30">                                                 </tspan>
+<tspan x="15" y="50">                    -=-==-=.                     </tspan>
+<tspan x="15" y="70">               .--====++===**                    </tspan>
+<tspan x="15" y="90">             .-+=+=***+***++*+==                 </tspan>
+<tspan x="15" y="110">            +*=+++**+====---=**+#+               </tspan>
+<tspan x="15" y="130">           .**+#***+==-------=***#-              </tspan>
+<tspan x="15" y="150">           =%###*++=======----=#%%.              </tspan>
+<tspan x="15" y="170">            **=+++======-------+%%               </tspan>
+<tspan x="15" y="190">             #===++====++**++-=+%-               </tspan>
+<tspan x="15" y="210">              -+*###*+=###@*++=-%*               </tspan>
+<tspan x="15" y="230">              -+**###--++#*+==--*=               </tspan>
+<tspan x="15" y="250">              -===++=---===-==--==               </tspan>
+<tspan x="15" y="270">               =+=+*++=@+====---#                </tspan>
+<tspan x="15" y="290">               +++*+**+++=+*====                 </tspan>
+<tspan x="15" y="310">               -+**##@@%+*+*++==                 </tspan>
+<tspan x="15" y="330">                .**+++*++=+++*+=                 </tspan>
+<tspan x="15" y="350">                 :****++++***++=-                </tspan>
+<tspan x="15" y="370">                 :+***+++*+*++==--=..            </tspan>
+<tspan x="15" y="390">              ..:*=+**+**++++===--......         </tspan>
+<tspan x="15" y="410">           ....=-:-++++++++++==:.-:.-........    </tspan>
+<tspan x="15" y="430">        .......:::=:---+*=:...:.=..-............ </tspan>
+<tspan x="15" y="450">     .........::.-:::--:-::-=:.:-..:..............</tspan>
+<tspan x="15" y="470">  ...............::.:-::::-::-:.... ..............</tspan>
+<tspan x="15" y="490"> ...................:.-:.:.:::....... ...........</tspan>
+<tspan x="15" y="510">....................-...:.:...: .................</tspan>
+<tspan x="15" y="530">.... ..................:.............. ..........</tspan>
+<tspan x="15" y="550">                                                  </tspan>
+</text>
+<text x="515" y="30"><tspan class="addColor">BaranBaser</tspan><tspan class="cc">@</tspan><tspan class="value">github</tspan></text>
+<text x="515" y="50"><tspan class="cc">────────────────────────────────────────────</tspan></text>
+<text x="515" y="70"><tspan class="key">OS          </tspan><tspan class="cc">.......... </tspan><tspan class="value">Linux / Windows</tspan></text>
+<text x="515" y="90"><tspan class="key">Role        </tspan><tspan class="cc">.......... </tspan><tspan>Mechatronics Engineer</tspan></text>
+<text x="515" y="110"><tspan class="key">Specialty   </tspan><tspan class="cc">.......... </tspan><tspan>Full-Stack Developer</tspan></text>
+<text x="515" y="130"><tspan class="key">University  </tspan><tspan class="cc">.......... </tspan><tspan class="value">Marmara Univ. Istanbul</tspan></text>
+<text x="515" y="150"><tspan class="key">Uptime      </tspan><tspan class="cc">.......... </tspan><tspan class="addColor">22+ years</tspan></text>
+<text x="515" y="170"><tspan class="cc">────────────────────────────────────────────</tspan></text>
+<text x="515" y="190"><tspan class="key">Lang.Code   </tspan><tspan class="cc">.......... </tspan><tspan class="value">Python  TS  Dart  C++</tspan></text>
+<text x="515" y="210"><tspan class="key">Lang.Web    </tspan><tspan class="cc">.......... </tspan><tspan class="value">HTML  CSS  SQL</tspan></text>
+<text x="515" y="230"><tspan class="key">Frameworks  </tspan><tspan class="cc">.......... </tspan><tspan class="value">Next.js  Flutter  FastAPI</tspan></text>
+<text x="515" y="250"><tspan class="key">IDE         </tspan><tspan class="cc">.......... </tspan><tspan class="value">VS Code / PyCharm</tspan></text>
+<text x="515" y="270"><tspan class="cc">────────────────────────────────────────────</tspan></text>
+<text x="515" y="290"><tspan class="key">Interest[0] </tspan><tspan class="cc">.......... </tspan><tspan>Autonomous Systems</tspan></text>
+<text x="515" y="310"><tspan class="key">Interest[1] </tspan><tspan class="cc">.......... </tspan><tspan>Quant Finance (ERYS)</tspan></text>
+<text x="515" y="330"><tspan class="key">Interest[2] </tspan><tspan class="cc">.......... </tspan><tspan>Flutter Mobile Apps</tspan></text>
+<text x="515" y="350"><tspan class="key">Interest[3] </tspan><tspan class="cc">.......... </tspan><tspan>C++ / Embedded Systems</tspan></text>
+<text x="515" y="370"><tspan class="cc">────────────────────────────────────────────</tspan></text>
+<text x="515" y="390"><tspan class="key">Repos       </tspan><tspan class="cc">.......... </tspan><tspan class="addColor">10+ Public Repositories</tspan></text>
+<text x="515" y="410"><tspan class="key">Building[0] </tspan><tspan class="cc">.......... </tspan><tspan class="addColor">ERYS v10 | Stockbear</tspan></text>
+<text x="515" y="430"><tspan class="key">Building[1] </tspan><tspan class="cc">.......... </tspan><tspan class="addColor">Cinebee | BearMetrics</tspan></text>
+<text x="515" y="450"><tspan class="cc">────────────────────────────────────────────</tspan></text>
+<text x="515" y="470"><tspan class="key">Contact</tspan></text>
+<text x="515" y="490"><tspan class="cc">────────────────────────────────────────────</tspan></text>
+<text x="515" y="510"><tspan class="key">GitHub      </tspan><tspan class="cc">.......... </tspan><tspan class="value">github.com/BaranBaser</tspan></text>
+<text x="515" y="530"><tspan class="key">Location    </tspan><tspan class="cc">.......... </tspan><tspan class="delColor">Istanbul  Turkey</tspan></text>
+<text x="515" y="550"><tspan class="cc">────────────────────────────────────────────</tspan></text>
+</svg>
