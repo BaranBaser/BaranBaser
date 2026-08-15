@@ -36,7 +36,7 @@
 
 | Project | Description | Tech |
 |:---|:---|:---|
-| [🌌 **local-agent**](https://github.com/BaranBaser/local-agent) | **Autonomous Discovery Grand Challenge & Cognitive OS (V27.0 Standalone)** with 10-Domain Multi-Physics Benchmarks, Subprocess-Isolated Sandboxes, Prior Ablations, and Unvarnished Scientific Leaderboards | `Python` `PyTorch` `CUDA` `Ollama` `FastAPI` `RTX 5070` |
+| [🌌 **local-agent**](https://github.com/BaranBaser/local-agent) | **Neuro-Symbolic Scientific Discovery Core & Cognitive OS (V29.0 Standalone)** with Closed-Form Equation Discovery, Causal DAG Learning (Pearl's do-calculus), and Buckingham Pi Dimensional Analysis | `Python` `PyTorch` `CUDA` `Ollama` `FastAPI` `RTX 5070` |
 | [🦅 **ERYS**](https://github.com/BaranBaser/Erys) | Autonomous Scientific Financial Research & Quantitative Trading OS | `Python` `DuckDB` `FastAPI` `SIMD` |
 | [🐻 **Stockbear**](https://github.com/BaranBaser/stockbear) | Real-time stock analytics and market intelligence dashboard | `TypeScript` `React` `TailwindCSS` |
 | [🎬 **Social-Cinebee**](https://github.com/BaranBaser/Social-Cinebee) | Full-stack social movie platform & recommendation engine | `Next.js` `Node.js` `PostgreSQL` |
