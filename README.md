@@ -36,7 +36,7 @@
 
 | Project | Description | Tech |
 |:---|:---|:---|
-| [🌌 **local-agent**](https://github.com/BaranBaser/local-agent) | **Autonomous Engineering Cognitive OS & Artificial Scientific Society (V20.0 Standalone)** with 10-Model MoE, World Simulation, Causal Proofs, and Kuhnian Paradigm Shifts | `Python` `PyTorch` `Ollama` `FastAPI` `MCTS` `MoE` |
+| [🌌 **local-agent**](https://github.com/BaranBaser/local-agent) | **Autonomous Engineering Cognitive OS & Cognitive Evolution Engine (V21.0 Standalone)** with Empirical Model Specialization Learning, Bayesian Hypothesis Graphs, Multi-Objective Dreamer, and Failure Pattern Memory | `Python` `PyTorch` `Ollama` `FastAPI` `MCTS` `MoE` |
 | [🦅 **ERYS**](https://github.com/BaranBaser/Erys) | Autonomous Scientific Financial Research & Quantitative Trading OS | `Python` `DuckDB` `FastAPI` `SIMD` |
 | [🐻 **Stockbear**](https://github.com/BaranBaser/stockbear) | Real-time stock analytics and market intelligence dashboard | `TypeScript` `React` `TailwindCSS` |
 | [🎬 **Social-Cinebee**](https://github.com/BaranBaser/Social-Cinebee) | Full-stack social movie platform & recommendation engine | `Next.js` `Node.js` `PostgreSQL` |
