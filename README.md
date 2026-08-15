@@ -36,7 +36,7 @@
 
 | Project | Description | Tech |
 |:---|:---|:---|
-| [🌌 **local-agent**](https://github.com/BaranBaser/local-agent) | **Autonomous Scientific Discovery Engine & Cognitive Engineering OS (V23.0 Standalone)** with Autonomous Question Generation, Exact Shannon Mutual Information, Independent Cross-Model Replication, and Hardware-Accurate RTX 5070 VRAM Profiling | `Python` `PyTorch` `CUDA` `Ollama` `FastAPI` `RTX 5070` |
+| [🌌 **local-agent**](https://github.com/BaranBaser/local-agent) | **Autonomous Research Institution & Cognitive Engineering OS (V24.0 Standalone)** with Multi-Question Agendas, Contradiction Resolution, Independent Blind Auditing, Law Boundaries, and Merkle Lineage | `Python` `PyTorch` `CUDA` `Ollama` `FastAPI` `RTX 5070` |
 | [🦅 **ERYS**](https://github.com/BaranBaser/Erys) | Autonomous Scientific Financial Research & Quantitative Trading OS | `Python` `DuckDB` `FastAPI` `SIMD` |
 | [🐻 **Stockbear**](https://github.com/BaranBaser/stockbear) | Real-time stock analytics and market intelligence dashboard | `TypeScript` `React` `TailwindCSS` |
 | [🎬 **Social-Cinebee**](https://github.com/BaranBaser/Social-Cinebee) | Full-stack social movie platform & recommendation engine | `Next.js` `Node.js` `PostgreSQL` |
