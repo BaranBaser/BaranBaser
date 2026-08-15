@@ -36,7 +36,7 @@
 
 | Project | Description | Tech |
 |:---|:---|:---|
-| [🌌 **local-agent**](https://github.com/BaranBaser/local-agent) | **External Scientific Validation Engine & Cognitive OS (V26.0 Standalone)** with 7-Tier Discovery Taxonomy, Literature Oracle (Antoni & Randall 2006), Sealed Benchmark Authorities, and Discovery Authenticity Ledgers | `Python` `PyTorch` `CUDA` `Ollama` `FastAPI` `RTX 5070` |
+| [🌌 **local-agent**](https://github.com/BaranBaser/local-agent) | **Autonomous Discovery Grand Challenge & Cognitive OS (V27.0 Standalone)** with 10-Domain Multi-Physics Benchmarks, Subprocess-Isolated Sandboxes, Prior Ablations, and Unvarnished Scientific Leaderboards | `Python` `PyTorch` `CUDA` `Ollama` `FastAPI` `RTX 5070` |
 | [🦅 **ERYS**](https://github.com/BaranBaser/Erys) | Autonomous Scientific Financial Research & Quantitative Trading OS | `Python` `DuckDB` `FastAPI` `SIMD` |
 | [🐻 **Stockbear**](https://github.com/BaranBaser/stockbear) | Real-time stock analytics and market intelligence dashboard | `TypeScript` `React` `TailwindCSS` |
 | [🎬 **Social-Cinebee**](https://github.com/BaranBaser/Social-Cinebee) | Full-stack social movie platform & recommendation engine | `Next.js` `Node.js` `PostgreSQL` |
