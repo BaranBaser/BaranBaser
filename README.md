@@ -36,7 +36,7 @@
 
 | Project | Description | Tech |
 |:---|:---|:---|
-| [🌌 **local-agent**](https://github.com/BaranBaser/local-agent) | **Autonomous Engineering Cognitive OS & Cognitive Evolution Engine (V21.0 Standalone)** with Empirical Model Specialization Learning, Bayesian Hypothesis Graphs, Multi-Objective Dreamer, and Failure Pattern Memory | `Python` `PyTorch` `Ollama` `FastAPI` `MCTS` `MoE` |
+| [🌌 **local-agent**](https://github.com/BaranBaser/local-agent) | **Local Cognitive AGI Core & Autonomous Engineering OS (V22.0 Standalone)** with Shared Cognitive State, Epistemic Blackboard, RTX 5070 12GB VRAM-Aware Coalition Scheduling, and Cognitive Credit Assignment | `Python` `PyTorch` `CUDA` `Ollama` `FastAPI` `RTX 5070` |
 | [🦅 **ERYS**](https://github.com/BaranBaser/Erys) | Autonomous Scientific Financial Research & Quantitative Trading OS | `Python` `DuckDB` `FastAPI` `SIMD` |
 | [🐻 **Stockbear**](https://github.com/BaranBaser/stockbear) | Real-time stock analytics and market intelligence dashboard | `TypeScript` `React` `TailwindCSS` |
 | [🎬 **Social-Cinebee**](https://github.com/BaranBaser/Social-Cinebee) | Full-stack social movie platform & recommendation engine | `Next.js` `Node.js` `PostgreSQL` |
