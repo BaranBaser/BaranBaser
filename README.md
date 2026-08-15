@@ -17,29 +17,31 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Autonomous Tooling
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-### 🚀 Projects
+### 🚀 Flagship Projects
 
 | Project | Description | Tech |
 |:---|:---|:---|
-| [🦅 ERYS](https://github.com/BaranBaser/Erys) | Autonomous Scientific Financial Research OS | Python DuckDB FastAPI |
-| [🐻 Stockbear](https://github.com/BaranBaser/stockbear) | Real-time stock analytics dashboard | TypeScript React |
-| [🎬 Social-Cinebee](https://github.com/BaranBaser/Social-Cinebee) | Full-stack social movie platform | Next.js Node.js |
-| [📊 BearMetrics](https://github.com/BaranBaser/BearMetrics) | Cross-platform analytics mobile app | Flutter Dart |
+| [🌌 **local-agent**](https://github.com/BaranBaser/local-agent) | **Autonomous Engineering Cognitive OS & Artificial Scientific Society (V20.0 Standalone)** with 10-Model MoE, World Simulation, Causal Proofs, and Kuhnian Paradigm Shifts | `Python` `PyTorch` `Ollama` `FastAPI` `MCTS` `MoE` |
+| [🦅 **ERYS**](https://github.com/BaranBaser/Erys) | Autonomous Scientific Financial Research & Quantitative Trading OS | `Python` `DuckDB` `FastAPI` `SIMD` |
+| [🐻 **Stockbear**](https://github.com/BaranBaser/stockbear) | Real-time stock analytics and market intelligence dashboard | `TypeScript` `React` `TailwindCSS` |
+| [🎬 **Social-Cinebee**](https://github.com/BaranBaser/Social-Cinebee) | Full-stack social movie platform & recommendation engine | `Next.js` `Node.js` `PostgreSQL` |
+| [📊 **BearMetrics**](https://github.com/BaranBaser/BearMetrics) | Cross-platform analytics mobile app | `Flutter` `Dart` |
 
 ---
 
-> *"Mechatronics taught me that the most powerful systems emerge when mechanics, electronics, and software work as one."*
+> *"The most powerful systems emerge when mechanical principles, physical invariants, and cognitive AI architectures operate as one unified organism."*

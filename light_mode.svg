@@ -49,24 +49,24 @@ text, tspan { white-space: pre; }
 <text x="515" y="30"><tspan class="addColor">BaranBaser</tspan><tspan class="cc">@</tspan><tspan class="value">github</tspan></text>
 <text x="515" y="50"><tspan class="cc">────────────────────────────────────────────</tspan></text>
 <text x="515" y="70"><tspan class="key">OS          </tspan><tspan class="cc">.......... </tspan><tspan class="value">Linux / Windows</tspan></text>
-<text x="515" y="90"><tspan class="key">Role        </tspan><tspan class="cc">.......... </tspan><tspan>Mechatronics Engineer</tspan></text>
-<text x="515" y="110"><tspan class="key">Specialty   </tspan><tspan class="cc">.......... </tspan><tspan>Full-Stack Developer</tspan></text>
+<text x="515" y="90"><tspan class="key">Role        </tspan><tspan class="cc">.......... </tspan><tspan>AI &amp; Autonomous Systems Engineer</tspan></text>
+<text x="515" y="110"><tspan class="key">Specialty   </tspan><tspan class="cc">.......... </tspan><tspan>Cognitive OS &amp; Scientific AI</tspan></text>
 <text x="515" y="130"><tspan class="key">University  </tspan><tspan class="cc">.......... </tspan><tspan class="value">Marmara Univ. Istanbul</tspan></text>
 <text x="515" y="150"><tspan class="key">Uptime      </tspan><tspan class="cc">.......... </tspan><tspan class="addColor">22+ years</tspan></text>
 <text x="515" y="170"><tspan class="cc">────────────────────────────────────────────</tspan></text>
-<text x="515" y="190"><tspan class="key">Lang.Code   </tspan><tspan class="cc">.......... </tspan><tspan class="value">Python  TS  Dart  C++</tspan></text>
-<text x="515" y="210"><tspan class="key">Lang.Web    </tspan><tspan class="cc">.......... </tspan><tspan class="value">HTML  CSS  SQL</tspan></text>
-<text x="515" y="230"><tspan class="key">Frameworks  </tspan><tspan class="cc">.......... </tspan><tspan class="value">Next.js  Flutter  FastAPI</tspan></text>
-<text x="515" y="250"><tspan class="key">IDE         </tspan><tspan class="cc">.......... </tspan><tspan class="value">VS Code / PyCharm</tspan></text>
+<text x="515" y="190"><tspan class="key">Lang.Code   </tspan><tspan class="cc">.......... </tspan><tspan class="value">Python  C++  TypeScript  Rust</tspan></text>
+<text x="515" y="210"><tspan class="key">Lang.Web    </tspan><tspan class="cc">.......... </tspan><tspan class="value">HTML  CSS  SQL  LaTeX</tspan></text>
+<text x="515" y="230"><tspan class="key">Frameworks  </tspan><tspan class="cc">.......... </tspan><tspan class="value">PyTorch  FastAPI  Next.js</tspan></text>
+<text x="515" y="250"><tspan class="key">AI &amp; LLM    </tspan><tspan class="cc">.......... </tspan><tspan class="value">Ollama  MCTS  MoE  Bayesian</tspan></text>
 <text x="515" y="270"><tspan class="cc">────────────────────────────────────────────</tspan></text>
-<text x="515" y="290"><tspan class="key">Interest[0] </tspan><tspan class="cc">.......... </tspan><tspan>Autonomous Systems</tspan></text>
-<text x="515" y="310"><tspan class="key">Interest[1] </tspan><tspan class="cc">.......... </tspan><tspan>Quant Finance (ERYS)</tspan></text>
-<text x="515" y="330"><tspan class="key">Interest[2] </tspan><tspan class="cc">.......... </tspan><tspan>Flutter Mobile Apps</tspan></text>
-<text x="515" y="350"><tspan class="key">Interest[3] </tspan><tspan class="cc">.......... </tspan><tspan>C++ / Embedded Systems</tspan></text>
+<text x="515" y="290"><tspan class="key">Interest[0] </tspan><tspan class="cc">.......... </tspan><tspan>Cognitive AI &amp; Research OS</tspan></text>
+<text x="515" y="310"><tspan class="key">Interest[1] </tspan><tspan class="cc">.......... </tspan><tspan>Scientific AI Societies</tspan></text>
+<text x="515" y="330"><tspan class="key">Interest[2] </tspan><tspan class="cc">.......... </tspan><tspan>Autonomous Systems &amp; FOC</tspan></text>
+<text x="515" y="350"><tspan class="key">Interest[3] </tspan><tspan class="cc">.......... </tspan><tspan>Quant Finance &amp; SIMD</tspan></text>
 <text x="515" y="370"><tspan class="cc">────────────────────────────────────────────</tspan></text>
-<text x="515" y="390"><tspan class="key">Repos       </tspan><tspan class="cc">.......... </tspan><tspan class="addColor">10+ Public Repositories</tspan></text>
-<text x="515" y="410"><tspan class="key">Building[0] </tspan><tspan class="cc">.......... </tspan><tspan class="addColor">ERYS v10 | Stockbear</tspan></text>
-<text x="515" y="430"><tspan class="key">Building[1] </tspan><tspan class="cc">.......... </tspan><tspan class="addColor">Cinebee | BearMetrics</tspan></text>
+<text x="515" y="390"><tspan class="key">Repos       </tspan><tspan class="cc">.......... </tspan><tspan class="addColor">10+ Repositories &amp; Packages</tspan></text>
+<text x="515" y="410"><tspan class="key">Building[0] </tspan><tspan class="cc">.......... </tspan><tspan class="addColor">local-agent (V20 Scientific)</tspan></text>
+<text x="515" y="430"><tspan class="key">Building[1] </tspan><tspan class="cc">.......... </tspan><tspan class="addColor">ERYS OS | Stockbear</tspan></text>
 <text x="515" y="450"><tspan class="cc">────────────────────────────────────────────</tspan></text>
 <text x="515" y="470"><tspan class="key">Contact</tspan></text>
 <text x="515" y="490"><tspan class="cc">────────────────────────────────────────────</tspan></text>
